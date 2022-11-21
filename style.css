@@ -14,10 +14,8 @@
 }
 
 .clear{clear: both;}
-
+/*
 .w50{float: left;width: 50%;padding:0 15px;}
-
-/**/
 
 .menu-mobile{display: none;}
 
@@ -54,13 +52,13 @@
 	text-decoration: none;
 	color: #202020;
 }
-
+*/
 section.topo{
-	background-image: linear-gradient(114deg, #250e8a, #00f9f7);
+	background-image: linear-gradient(114deg, #250e8a, #245050);
 	padding-top: 40px;
 	padding-bottom: 80px;
 }
-
+/*
 .logo{
 	float: left;
 }
@@ -139,9 +137,10 @@ section.clientes-slider{
 }
 
 section.clientes-slider img{padding:0 20px;}
+*/
 
 /****SLICK SLIDER****/
-
+/*
 .slick-dotted ul{
 	list-style-type: none;
 	text-align: center;
@@ -178,7 +177,7 @@ li.slick-active button{
 
 /**END SLICK**/
 
-
+/*
 section.diferenciais{
 	padding: 30px 0;
 }
@@ -195,6 +194,7 @@ section.diferenciais h2{
 	flex-wrap: wrap;
 	margin-top:80px;
 }
+
 
 
 .box-single-diferenciais{
