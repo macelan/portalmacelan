@@ -62,10 +62,11 @@ section.topo{
 .logo{
 	float: left;
 }
-
+*/
 .menu-desktop{
 	float: right;
 }
+
 
 .menu-desktop li{
 	display: inline-block;
@@ -81,7 +82,7 @@ section.topo{
 .menu-desktop a:hover{
 	opacity: 1;
 }
-
+/*
 .time-descricao{
 	margin-top:50px;
 	color: white;
