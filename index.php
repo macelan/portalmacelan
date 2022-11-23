@@ -26,21 +26,8 @@
 				<li><a href="">Sobre</a></li>
 				<li><a href="">Contato</a></li>
 			</ul>
-			<div class="menu-mobile">
-			<i class="fas fa-align-right"></i>
-				<ul>
-				<li><a href="">Home</a></li>
-				<li><a href="">Cidade</a></li>
-				<li><a href="">Notícias</a></li>
-				<li><a href="">Polícia</a></li>
-				<li><a href="">Educação</a></li>
-				<li><a href="">Igrejas</a></li>
-				<li><a href="">Intreterimento</a></li>
-				<li><a href="">Sobre</a></li>
-				<li><a href="">Contato</a></li>
-				</ul>
-			</div><!--menu-mobile-->
-			<div class="clear"></div>
+			
+			
 		</div><!--center-->
 	</section><!--topo-->
 	
